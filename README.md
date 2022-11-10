@@ -56,6 +56,10 @@
 ### Screenshots
 ![Policy Screenshot 2022-11-10 163004](https://user-images.githubusercontent.com/105915325/201074558-65131c4e-0e61-4b89-a0e8-8d55bcf36842.png)
 
+### Footer
+![google](https://images.urbanclap.com/image/upload/categories/category_v2/category_7f907eb0.png)
+![Apple](https://images.urbanclap.com/image/upload/categories/category_v2/category_7f741d10.png)
+
 
 
 ## Ankit
