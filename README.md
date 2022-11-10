@@ -52,6 +52,10 @@
 ![3](https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep,w_532/t_high_res_category/categories/category_v2/category_a91b73d0.jpeg)
 ![4](https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep,w_532/t_high_res_category/categories/home_screen/plumber.jpg)
 
+### Screenshots
+![Policy Screenshot 2022-11-10 163004](https://user-images.githubusercontent.com/105915325/201074558-65131c4e-0e61-4b89-a0e8-8d55bcf36842.png)
+
+
 
 ## Ankit
 ![project 211](https://user-images.githubusercontent.com/101567851/201011689-0877c141-8438-4aca-851e-89a444dcf8b5.png)
