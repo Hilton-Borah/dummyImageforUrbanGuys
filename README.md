@@ -62,6 +62,11 @@
 
 ### Payment logo
 ![debit card](https://res.cloudinary.com/urbanclap/image/upload/t_high_res_category,q_auto:low,f_auto,dpr_1/images/monet/customer-app-monet/1622015769641-3fc187.png)
+![paytm](https://res.cloudinary.com/urbanclap/image/upload/t_high_res_category,q_auto:low,f_auto,dpr_1/images/monet/customer-app-monet/1622035139912-c6c7d1.png)
+![UPI](https://res.cloudinary.com/urbanclap/image/upload/t_high_res_category,q_auto:low,f_auto,dpr_1/images/monet/customer-app-monet/1622035138755-c9ea9d.png)
+![NetBank](https://res.cloudinary.com/urbanclap/image/upload/t_high_res_category,q_auto:low,f_auto,dpr_1/images/monet/customer-app-monet/1622015760056-139840.png)
+![payOnline](https://res.cloudinary.com/urbanclap/image/upload/t_high_res_category,q_auto:low,f_auto,dpr_1/images/monet/customer-app-monet/1622015759674-7e67cf.png)
+![payCash](https://res.cloudinary.com/urbanclap/image/upload/t_high_res_category,q_auto:low,f_auto,dpr_1/images/monet/customer-app-monet/1622015765651-21a4a3.png)
 
 
 
