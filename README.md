@@ -60,6 +60,9 @@
 ![google](https://images.urbanclap.com/image/upload/categories/category_v2/category_7f907eb0.png)
 ![Apple](https://images.urbanclap.com/image/upload/categories/category_v2/category_7f741d10.png)
 
+### Payment logo
+![debit card](https://res.cloudinary.com/urbanclap/image/upload/t_high_res_category,q_auto:low,f_auto,dpr_1/images/monet/customer-app-monet/1622015769641-3fc187.png)
+
 
 
 ## Ankit
