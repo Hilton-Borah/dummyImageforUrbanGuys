@@ -77,6 +77,8 @@
 ## Ankit cart
 ![frequentlybuy](https://user-images.githubusercontent.com/101567851/201468415-6ed5f903-e9f2-4424-96e9-0aa920c47555.png)
 
+## Ankit cart offer image
+![rct 211 offer image](https://user-images.githubusercontent.com/101567851/201476636-de8d2140-4d48-436e-8e03-3e150cd8bdef.png)
 
 
 
