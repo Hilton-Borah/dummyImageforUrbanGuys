@@ -95,3 +95,14 @@ portfolio
 
 ![WhatsApp Image 2022-10-27 at 14 44 23](https://user-images.githubusercontent.com/103739534/202837417-3fe0b666-ce93-4741-ba9a-8e9423e86455.jpg)
 
+![Screenshot_20221023_130531](https://user-images.githubusercontent.com/103739534/202837668-b891e66b-43b3-42cd-ba2c-9dec733ef2f0.png)
+
+![Screenshot_20221026_055358](https://user-images.githubusercontent.com/103739534/202837803-d81c13a9-4ca0-4270-83aa-c9791db46249.png)
+
+![Screenshot_20221026_084748](https://user-images.githubusercontent.com/103739534/202837843-6d42e6a9-12a5-4d95-b2ea-5d23eef94d87.png)
+
+![Screenshot_20221026_193846](https://user-images.githubusercontent.com/103739534/202837850-9b26f3d8-b870-4b8f-be0a-931d1634d719.png)
+
+![myfoto-removebg-preview](https://user-images.githubusercontent.com/103739534/202837993-02eca68a-ceb8-49f5-9ca8-aecef772e54a.jpg)
+
+![Screenshot_20221024_032620](https://user-images.githubusercontent.com/103739534/202837902-3260823d-791a-45fa-910d-36c7243641c3.png)
