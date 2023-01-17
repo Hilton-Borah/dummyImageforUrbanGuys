@@ -131,3 +131,31 @@ first slideshow
 ![ajio1](https://user-images.githubusercontent.com/103739534/212889292-927d18fe-23d3-488b-9cee-091827afc7d7.png)
 
 ![ajio3](https://user-images.githubusercontent.com/103739534/212889315-24b1f6cd-f41d-49e0-9a50-393ee2f4d5f2.png)
+
+
+thiord thingh 
+
+![ajio14](https://user-images.githubusercontent.com/103739534/212957836-f93537a9-ba5f-4940-b42d-7dca88ff59b9.png)
+
+fourth slider
+
+![ajio13](https://user-images.githubusercontent.com/103739534/212958443-82b9f53d-ebb2-498f-a558-b09024a7d48a.png)
+
+![ajio12](https://user-images.githubusercontent.com/103739534/212958458-1befb444-d2c2-40ec-96b6-802b2be4481f.png)
+
+![ajio11](https://user-images.githubusercontent.com/103739534/212958467-e9baa1f4-3639-4325-90f1-1b732d248ba3.png)
+
+
+fifth thing
+
+![ajio20](https://user-images.githubusercontent.com/103739534/212979558-977a6fb3-2791-47c5-9834-8e7c2bc10c5b.png)
+
+![ajio21](https://user-images.githubusercontent.com/103739534/212979520-173fe9ac-84ed-4b22-863f-d7b038889b85.png)
+
+six slider
+
+
+
+
+
+
