@@ -108,3 +108,26 @@ portfolio
 ![Screenshot_20221024_032620](https://user-images.githubusercontent.com/103739534/202837902-3260823d-791a-45fa-910d-36c7243641c3.png)
 
 ![Screenshot_20221026_210536](https://user-images.githubusercontent.com/103739534/202838347-a193e2de-acea-4c87-9e52-f82fe45ac0b2.png)
+
+
+
+
+
+
+
+
+
+Ajio
+
+first slideshow
+
+
+![ajio5](https://user-images.githubusercontent.com/103739534/212889238-2cbc3000-ec5b-4bb6-9f01-6f6f6107fdab.png)
+
+![ajio4](https://user-images.githubusercontent.com/103739534/212889254-0a195f67-f132-43a5-8ad4-8955a06c82b5.png)
+
+![ajio2](https://user-images.githubusercontent.com/103739534/212889283-2eda5777-dc20-4806-bd67-1bc61b87d044.png)
+
+![ajio1](https://user-images.githubusercontent.com/103739534/212889292-927d18fe-23d3-488b-9cee-091827afc7d7.png)
+
+![ajio3](https://user-images.githubusercontent.com/103739534/212889315-24b1f6cd-f41d-49e0-9a50-393ee2f4d5f2.png)
