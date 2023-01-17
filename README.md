@@ -152,7 +152,56 @@ fifth thing
 
 ![ajio21](https://user-images.githubusercontent.com/103739534/212979520-173fe9ac-84ed-4b22-863f-d7b038889b85.png)
 
+
 six slider
+
+![ajio18](https://user-images.githubusercontent.com/103739534/212981276-117a9494-8ed4-4863-afab-8659993e8757.png)
+
+![ajio17](https://user-images.githubusercontent.com/103739534/212981149-4edf623d-3e5a-4eb9-adfd-abd4e007a9e0.png)
+
+![ajio16](https://user-images.githubusercontent.com/103739534/212981174-c4b71c02-9049-4836-9ad7-a410bc644a15.png)
+
+![ajio15](https://user-images.githubusercontent.com/103739534/212981209-f7aa7386-0693-42d6-82c6-a746c4edc5e6.png)
+
+![ajio19](https://user-images.githubusercontent.com/103739534/212981237-5da58cf4-a1ab-4213-b368-d3e8733c5785.png)
+
+setInterval
+
+![ajio26](https://user-images.githubusercontent.com/103739534/212991359-aa7a7ecf-9f09-4549-baa3-54a18cd177b8.png)
+
+![ajio22](https://user-images.githubusercontent.com/103739534/212987289-eab83cb5-9f74-4971-a12c-249a3846855d.png)
+
+![ajio23](https://user-images.githubusercontent.com/103739534/212987337-e1996522-22df-431f-a4d9-cae5cd15fc47.png)
+
+![ajio24](https://user-images.githubusercontent.com/103739534/212987357-e94fa798-46e6-4a06-a89a-d35728a9687c.png)
+
+![ajio25](https://user-images.githubusercontent.com/103739534/212987376-93f123f4-a1b0-42e1-a27f-9011971f76cf.png)
+
+Other images
+
+![ajio27](https://user-images.githubusercontent.com/103739534/212991984-cc6c708a-b5dc-46c8-87a4-164499776875.png)
+
+![ajio28](https://user-images.githubusercontent.com/103739534/212993319-4e31cbe6-331b-4f73-852e-36931bd8d526.png)
+
+![ajio29](https://user-images.githubusercontent.com/103739534/212994638-ed75b7e2-5a35-4e8b-8f24-dcaf0ec2aeba.png)
+
+last slider
+
+
+![ajio34](https://user-images.githubusercontent.com/103739534/212999382-8f613cb8-c0d0-4b59-9b48-61b3ba3cf9d1.png)
+
+![ajio32](https://user-images.githubusercontent.com/103739534/212999397-9327935a-fad4-450d-94da-855e213d0ff1.png)
+
+![ajio33](https://user-images.githubusercontent.com/103739534/212999409-abba0598-5f8b-42de-81eb-57027f163b7c.png)
+
+![ajio31](https://user-images.githubusercontent.com/103739534/212999416-0521eab1-d78f-44e6-b490-150cfa91d790.png)
+
+![ajio30](https://user-images.githubusercontent.com/103739534/212999424-92345e3d-a9ff-42f9-a946-c692113636f2.png)
+
+![ajio36](https://user-images.githubusercontent.com/103739534/212999437-c1ae5f85-0d0a-43cd-840f-acae27da9d88.png)
+
+![ajio35](https://user-images.githubusercontent.com/103739534/212999363-172d3d05-fe2e-4dd9-96e9-74fc3be56a48.png)
+
 
 
 
