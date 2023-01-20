@@ -203,6 +203,10 @@ last slider
 ![ajio35](https://user-images.githubusercontent.com/103739534/212999363-172d3d05-fe2e-4dd9-96e9-74fc3be56a48.png)
 
 
+giffffffff
+
+![71390-shopping-cart-loader](https://user-images.githubusercontent.com/103739534/213816226-4a749b53-b4c8-4dec-b9b7-973b4c964df7.gif)
+
 
 
 
