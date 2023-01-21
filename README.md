@@ -207,8 +207,7 @@ giffffffff
 
 ![71390-shopping-cart-loader](https://user-images.githubusercontent.com/103739534/213816226-4a749b53-b4c8-4dec-b9b7-973b4c964df7.gif)
 
-
-
+![104133-shopping](https://user-images.githubusercontent.com/103739534/213868650-c6f0aea0-5db4-4c80-abe1-88a48dd56666.gif)
 
 
 
