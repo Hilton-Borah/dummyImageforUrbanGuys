@@ -256,7 +256,14 @@ urban company
 ![Hilton](https://user-images.githubusercontent.com/103739534/221340029-165fec07-0d49-4c2c-8f40-4a5601745704.jpg)
 
 
+<h1>DT project</h1>
 
 
 
-
+![—Pngtree—team meeting in conference room_5416761 2](https://user-images.githubusercontent.com/103739534/236646622-0225fba9-329f-4b72-84c7-984e4fc7f284.png)
+![Ellipse 154](https://user-images.githubusercontent.com/103739534/236646625-81a96361-b597-4ddf-a110-309eee658b26.png)
+![Ellipse 155](https://user-images.githubusercontent.com/103739534/236646626-81b439c3-cb1c-4a43-9e4c-e7a2d9a66a2e.png)
+![Ellipse 156](https://user-images.githubusercontent.com/103739534/236646628-d2f62b81-a1fa-43ad-860d-105412a260ab.png)
+![Ellipse 157](https://user-images.githubusercontent.com/103739534/236646629-b944db08-6d49-4250-8a7c-c6a645fcad11.png)
+![Ellipse 158](https://user-images.githubusercontent.com/103739534/236646630-43eb1258-7546-43a4-8974-6ffb9dd70a89.png)
+![Ellipse 159](https://user-images.githubusercontent.com/103739534/236646631-7be7cd57-9b3b-41f2-9a0b-52d153d4e23d.png)
