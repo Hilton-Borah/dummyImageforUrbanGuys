@@ -272,3 +272,6 @@ urban company
 <h1>Mobilicis</h1>
 
 ![animation_llcv0svf_small](https://github.com/Hilton-Borah/dummyImageforUrbanGuys/assets/103739534/726a62e2-528b-4a55-9e79-0e1d9bb000f1)
+
+![52cfde59-978f-48bd-987b-69b54e1e05e8](https://github.com/Hilton-Borah/dummyImageforUrbanGuys/assets/103739534/7c9d0895-e6e5-4121-964e-a6ec1e6c9f9e)
+
